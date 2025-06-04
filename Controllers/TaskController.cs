@@ -98,7 +98,15 @@ namespace EmployeeTaskManagement.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            // 🛠️ Fix: Reassign ViewBag.Employees if form submission fails validation
+            foreach (var key in ModelState.Keys)
+            {
+                var errors = ModelState[key].Errors;
+                foreach (var error in errors)
+                {
+                    Console.WriteLine($"Validation error for '{key}': {error.ErrorMessage}");
+                }
+            }
+
             ViewBag.Employees = _context.Employees.ToList();
             return View(task);
         }

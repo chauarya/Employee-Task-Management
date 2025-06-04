@@ -165,3 +165,4 @@ D:\Dalhousie-1\Projects\ASP_NET_MVC\Employee_Task_Management\EmployeeTaskManagem
 D:\Dalhousie-1\Projects\ASP_NET_MVC\Employee_Task_Management\EmployeeTaskManagement\EmployeeTaskManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Dalhousie-1\Projects\ASP_NET_MVC\Employee_Task_Management\EmployeeTaskManagement\EmployeeTaskManagement\obj\Debug\net8.0\EmployeeTaskManagement.genruntimeconfig.cache
 D:\Dalhousie-1\Projects\ASP_NET_MVC\Employee_Task_Management\EmployeeTaskManagement\EmployeeTaskManagement\obj\Debug\net8.0\ref\EmployeeTaskManagement.dll
+D:\Dalhousie-1\Projects\ASP_NET_MVC\Employee_Task_Management\EmployeeTaskManagement\EmployeeTaskManagement\obj\Debug\net8.0\EmployeeTaskManagement.sourcelink.json
